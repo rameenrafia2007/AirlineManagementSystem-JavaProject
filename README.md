@@ -29,7 +29,6 @@ A desktop-based **Airline Management System** developed in **JAVA** using **Obje
   - Duplicate username check for signup
   - Centralized data management in Model classes
 
----
 
 ## **Project Architecture**
 
@@ -53,7 +52,6 @@ A desktop-based **Airline Management System** developed in **JAVA** using **Obje
   - Initializes Model, View, and Controller
   - Entry point of the application
 
----
 
 ## **OOP Concepts Used**
 
@@ -62,8 +60,7 @@ A desktop-based **Airline Management System** developed in **JAVA** using **Obje
 - **Association** – Passenger objects linked with Flight objects via Booking
 - **Polymorphism** – ActionListeners used to handle multiple button events
 - **Classes & Objects** – All major components are modular classes
-
----
+  
 
 ## **Technologies Used**
 
@@ -72,7 +69,6 @@ A desktop-based **Airline Management System** developed in **JAVA** using **Obje
 - **NetBeans IDE** – Development environment
 - **MVC Architecture** – To separate concerns and improve maintainability
 
----
 
 ## **Project Limitations**
 
@@ -80,7 +76,6 @@ A desktop-based **Airline Management System** developed in **JAVA** using **Obje
 - Basic GUI design (can be enhanced further)
 - Does not include real-time payment or airline APIs
 
----
 
 ## **Future Enhancements**
 
@@ -90,7 +85,6 @@ A desktop-based **Airline Management System** developed in **JAVA** using **Obje
 - Enable flight search and advanced filters
 - Implement email notifications for bookings and cancellations
 
----
 
 ## **How to Run the Project**
 
