@@ -1,8 +1,6 @@
-# Airline Management System 🛫
+# Airline Management System-OOP Project
 
 A desktop-based **Airline Management System** developed in **JAVA** using **Object-Oriented Programming (OOP)** principles and the **Model-View-Controller (MVC)** architecture. This system allows Admins and Passengers to manage flights, bookings, and schedules in a clean, modular, and maintainable way.
-
----
 
 ## **Features**
 
