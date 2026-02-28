@@ -1,0 +1,5 @@
+101,islamabad,turkey,12:00,3,3000.0
+102,islamabad,karachi,12:00,3,2000.0
+103,Islamabad,Germany,11:00,2,5000.0
+104,islamabad,Lahore,5:00,4,4000.0
+105,Islamabad,Skardu,6:00,7,9000.0
